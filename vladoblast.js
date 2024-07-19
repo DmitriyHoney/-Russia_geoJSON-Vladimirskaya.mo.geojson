@@ -1,4 +1,4 @@
-const vladimitGeoJson = {
+const vladimirGeoJson = {
     "type": "FeatureCollection",
     "features": [
       {
