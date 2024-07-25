@@ -4,7 +4,8 @@ const vladimirGeoJson = {
       {
         "type": "Feature",
         "properties": {
-          "data-name": "sobinka"
+          "data-name": "Собинский район",
+          "short-name": "13",
         },
         "geometry": {
           "type": "MultiPolygon",
@@ -3023,7 +3024,8 @@ const vladimirGeoJson = {
       {
         "type": "Feature",
         "properties": {
-          "data-name": "petushki"
+          "data-name": "Петушинский район",
+          "short-name": "11",
         },
         "geometry": {
           "type": "MultiPolygon",
@@ -6458,7 +6460,8 @@ const vladimirGeoJson = {
       {
         "type": "Feature",
         "properties": {
-          "data-name": "gorohovec"
+          "data-name": "Гороховецкий район",
+          "short-name": "3",
         },
         "geometry": {
           "type": "MultiPolygon",
@@ -16209,7 +16212,8 @@ const vladimirGeoJson = {
       {
         "type": "Feature",
         "properties": {
-          "data-name": "gus area"
+          "data-name": "Гусь-Хрустальный район",
+          "short-name":"4"
         },
         "geometry": {
           "type": "MultiPolygon",
@@ -23972,7 +23976,8 @@ const vladimirGeoJson = {
       {
         "type": "Feature",
         "properties": {
-          "data-name": "gus city"
+          "data-name": "Городской округ Гусь-Хрустальный",
+          "short-name": "18",
         },
         "geometry": {
           "type": "MultiPolygon",
@@ -24415,7 +24420,8 @@ const vladimirGeoJson = {
       {
         "type": "Feature",
         "properties": {
-          "data-name": "kameshki"
+          "data-name": "Камешковский район",
+          "short-name":"5",
         },
         "geometry": {
           "type": "MultiPolygon",
@@ -26666,7 +26672,8 @@ const vladimirGeoJson = {
       {
         "type": "Feature",
         "properties": {
-          "data-name": "kirzach"
+          "data-name": "Киржачский район",
+          "short-name": "6",
         },
         "geometry": {
           "type": "MultiPolygon",
@@ -33169,7 +33176,8 @@ const vladimirGeoJson = {
       {
         "type": "Feature",
         "properties": {
-          "data-name": "kovrov oblast"
+          "data-name": "Ковровский район",
+          "short-name":"7",
         },
         "geometry": {
           "type": "MultiPolygon",
@@ -38184,7 +38192,8 @@ const vladimirGeoJson = {
       {
         "type": "Feature",
         "properties": {
-          "data-name": "kovror-city"
+          "data-name": "Городской округ Ковров",
+          "short-name": "19",
         },
         "geometry": {
           "type": "MultiPolygon",
@@ -39067,7 +39076,8 @@ const vladimirGeoJson = {
       {
         "type": "Feature",
         "properties": {
-          "data-name": "melenki"
+          "data-name": "Меленковский район",
+          "short-name": "9",
         },
         "geometry": {
           "type": "MultiPolygon",
@@ -45038,7 +45048,8 @@ const vladimirGeoJson = {
       {
         "type": "Feature",
         "properties": {
-          "data-name": "murom okrug"
+          "data-name": "Городской округ Муром",
+          "short-name": "10",
         },
         "geometry": {
           "type": "MultiPolygon",
@@ -45553,7 +45564,8 @@ const vladimirGeoJson = {
       {
         "type": "Feature",
         "properties": {
-          "data-name": "selivan"
+          "data-name": "Селивановский район",
+          "short-name": "12",
         },
         "geometry": {
           "type": "MultiPolygon",
@@ -47568,7 +47580,8 @@ const vladimirGeoJson = {
       {
         "type": "Feature",
         "properties": {
-          "data-name": "sudogda"
+          "data-name": "Судогодский район",
+          "short-name": "14",
         },
         "geometry": {
           "type": "MultiPolygon",
@@ -53247,7 +53260,8 @@ const vladimirGeoJson = {
       {
         "type": "Feature",
         "properties": {
-          "data-name": "suzdal"
+          "data-name": "Суздальский район",
+          "short-name": "15",
         },
         "geometry": {
           "type": "MultiPolygon",
@@ -56594,7 +56608,8 @@ const vladimirGeoJson = {
       {
         "type": "Feature",
         "properties": {
-          "data-name": "yriev-polsky"
+          "data-name": "Юрьев - Польский район",
+          "short-name": "16",
         },
         "geometry": {
           "type": "MultiPolygon",
@@ -59457,7 +59472,8 @@ const vladimirGeoJson = {
       {
         "type": "Feature",
         "properties": {
-          "data-name": "radugnuy"
+          "data-name": "Городской округ Радужный (ЗАТО)",
+          "short-name": "20"
         },
         "geometry": {
           "type": "MultiPolygon",
@@ -60408,7 +60424,8 @@ const vladimirGeoJson = {
       {
         "type": "Feature",
         "properties": {
-          "data-name": "kolchugino"
+          "data-name": "Кольчугинский район",
+          "short-name": "8",
         },
         "geometry": {
           "type": "MultiPolygon",
@@ -63335,7 +63352,8 @@ const vladimirGeoJson = {
       {
         "type": "Feature",
         "properties": {
-          "data-name": "alexandrov"
+          "data-name": "Александровский район",
+          "short-name":"1",
         },
         "geometry": {
           "type": "MultiPolygon",
@@ -71966,7 +71984,8 @@ const vladimirGeoJson = {
       {
         "type": "Feature",
         "properties": {
-          "data-name": "vyazniki"
+          "data-name": "Вязниковский район",
+          "short-name": "2",
         },
         "geometry": {
           "type": "MultiPolygon",
@@ -76301,7 +76320,8 @@ const vladimirGeoJson = {
       {
         "type": "Feature",
         "properties": {
-          "data-name": "murom-raon"
+          "data-name": "Муромский район",
+          "short-name": "21"
         },
         "geometry": {
           "type": "MultiPolygon",
@@ -78384,7 +78404,8 @@ const vladimirGeoJson = {
       {
         "type": "Feature",
         "properties": {
-          "data-name": "vladimir"
+          "data-name": "Владимир",
+          "short-name": "17",
         },
         "geometry": {
           "type": "MultiPolygon",
@@ -82589,4 +82610,4 @@ const vladimirGeoJson = {
         }
       }
     ]
-  }
+};
